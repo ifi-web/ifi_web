@@ -14,16 +14,7 @@ import {
 import BlurFade from "./ui/blur-fade";
 import SparklesText from "./ui/sparkles-text";
 import Meteors from "./ui/meteors";
-import {
-  Drawer,
-  DrawerClose,
-  DrawerContent,
-  DrawerDescription,
-  DrawerFooter,
-  DrawerHeader,
-  DrawerTitle,
-  DrawerTrigger,
-} from "./ui/drawer";
+import { Drawer, DrawerContent } from "./ui/drawer";
 import { Dock, DockIcon } from "./ui/dock";
 
 export type IconProps = React.HTMLAttributes<SVGElement>;

@@ -4,14 +4,14 @@ import { Separator } from "@/components/ui/separator";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Button } from "@/components/ui/button";
 import ShinyButtonGreen from "@/components/ui/ShinyButtonGreen";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+// import {
+//   Card,
+//   CardContent,
+//   CardDescription,
+//   CardFooter,
+//   CardHeader,
+//   CardTitle,
+// } from "@/components/ui/card";
 import BoxRemove from "@/assets/box-remove.svg";
 import BoxTick from "@/assets/box-tick.svg";
 import BoxTime from "@/assets/box-time.svg";
